@@ -118,4 +118,16 @@ word[5]  # character in position 5
 
 word[0:2] # characters from position 0 (included) to 2 (excluded)
 
-word[2:5] # characters from position 2 (included) to 5 (excluded)
+word[2:5] # characters fro
+
+print("doesn't")
+print('doesn\'t')
+
+
+mixedNumber= 5+90.8
+
+print(type(mixedNumber))
+
+addString='fish' + 'market'
+print(addString,addString ) 
+
