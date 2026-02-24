@@ -5,7 +5,7 @@
 
 - Create a program that calculates any number, in otherwords create a calculator in python.
 
-## Challenge
+## Extra Challenge
 
 Write a program that, given a price in shillings  (i.e., 1000 shillings), determines the method of giving change that uses the fewest coins. The program will not take input from the user, but rather it will begin with a hard-coded value for the price, i.e.:
 
